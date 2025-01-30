@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://ibb.co/jkkvgZ6r))
+![Image](https://github.com/user-attachments/assets/fca3c8ec-1fb6-4a82-a97e-f42ea481ffa1)
 # PyTrack
 PyTrack is a lightweight, customizable Python library for displaying real-time progress bars, enhancing the user interface of your scripts. Easy to use and perfect for tracking complex tasks.
 # Installation 📦
