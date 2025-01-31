@@ -18,7 +18,7 @@ The loading bar displays much useful info, such as:
 - Estimated remaining time, with color changes based on the expected wait time
 - Current speed displayed as iterations per second (it/s), with color changes based on speed
 - Current CPU usage, shown as a percentage
-- Current RAN usage, shown as a percentage
+- Current RAM usage, shown as a percentage
 # Implementation in your code ⬇️
 Use the following function to create a loading bar
 ``` python
